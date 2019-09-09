@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIVOBOOK-PRO</Machine>
+    <WindowsUser>Henok G</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>98f51e19-8d0d-496c-8348-64f74c3b30ac</PackageIdentityName>
+    <IntermediateOutputPath>D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4BE662F4DA5759A63C700BC1BC48800848D4C1007E06CE581EF64C3FF52567C6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>98f51e19-8d0d-496c-8348-64f74c3b30ac_1.0.0.0_neutral__m87ytg5sb2a0e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>98f51e19-8d0d-496c-8348-64f74c3b30ac_m87ytg5sb2a0e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>98f51e19-8d0d-496c-8348-64f74c3b30ac</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Henok G</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-13T07:54:50.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\PaintApp.exe">
+      <PackagePath>PaintApp.exe</PackagePath>
+      <Modified>2018-03-07T17:58:02.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\image.jpg">
+      <PackagePath>Assets\image.jpg</PackagePath>
+      <Modified>2014-08-06T22:18:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\screenshot_Sat_Dec_19_04.32.50.jpg">
+      <PackagePath>Assets\screenshot_Sat_Dec_19_04.32.50.jpg</PackagePath>
+      <Modified>2015-12-19T01:34:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\Paint.png">
+      <PackagePath>Assets\Paint.png</PackagePath>
+      <Modified>2014-08-06T22:18:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\PaintApp.xr.xml">
+      <PackagePath>PaintApp.xr.xml</PackagePath>
+      <Modified>2016-01-10T23:34:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-03-07T17:58:01.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\InkPage.xbf">
+      <PackagePath>InkPage.xbf</PackagePath>
+      <Modified>2016-02-13T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-13T07:54:50.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

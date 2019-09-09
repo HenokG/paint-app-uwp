@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIVOBOOK-PRO</Machine>
+    <WindowsUser>Henok G</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>98f51e19-8d0d-496c-8348-64f74c3b30ac</PackageIdentityName>
+    <IntermediateOutputPath>D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\PaintApp.exe">
+      <PackagePath>PaintApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\image.jpg">
+      <PackagePath>Assets\image.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\screenshot_Sat_Dec_19_04.32.50.jpg">
+      <PackagePath>Assets\screenshot_Sat_Dec_19_04.32.50.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\Paint.png">
+      <PackagePath>Assets\Paint.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\PaintApp.xr.xml">
+      <PackagePath>PaintApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\InkPage.xbf">
+      <PackagePath>InkPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Programming\My Programming Works\PaintApp\PaintApp\PaintApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
